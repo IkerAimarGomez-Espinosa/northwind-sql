@@ -1,4 +1,4 @@
-<img width="1119" height="769" alt="image" src="https://github.com/user-attachments/assets/8637db05-9572-4b23-b1d8-41167b3fa96a" />## Pregunta 1
+## Pregunta 1
 **Enunciado**
 Obtén los productos que no están descatalogados y cuyo precio unitario esté entre 10 y 50 euros, ambos incluidos. Muestra el nombre del producto y su precio redondeado a dos decimales, ordenado de mayor a menor precio.
 **Consulta**
